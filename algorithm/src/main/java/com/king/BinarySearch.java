@@ -1,7 +1,7 @@
 package com.king;
 
 /**
- * 二分查找(有序的)
+ * Insert(有序的)
  *
  * @author yuan
  */
